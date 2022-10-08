@@ -22,12 +22,16 @@
         caption
         {
           font-size: 52pt;
-          font-weight: italic;
-          color: black;
+          font-weight: bold;
+          color: darkred;
         }
-        tableheader
+        #tableheader
         {
           text-decoration: underline;
+        }
+        tr
+        {
+          border: 1px solid blue
         }
       </style>
     </head>
@@ -35,7 +39,7 @@
       
       <table>
         <caption>Super Team</caption>
-        <tr class= "tableheader">
+        <tr id= "tableheader">
           <th scope="col">Name</th>
           <th scope="col">Alias</th>
           <th scope="col">Image</th>
