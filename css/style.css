@@ -19,7 +19,10 @@ img
 {
   boarder-radius: 90%;
 }
-
+span
+{
+  boarder-radius: 90%;
+}
 section
 {
   float: right;
