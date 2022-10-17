@@ -1,10 +1,17 @@
 : root
 {
-  --main-color: black;
-   --main-bg-color: pink;
+  main-color: black;
+  main-bg-color: pink;
 }
 h1
 {
   color: var(pink);
   background-color: rgb(250, 200, 250);
+}
+section
+{
+  float: right;
+  color: var(--favcolor);
+  background-color: blue;
+  
 }
