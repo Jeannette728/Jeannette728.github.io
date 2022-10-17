@@ -5,8 +5,9 @@
 }
 h1
 {
-  color: var(pink);
-  background-color: rgb(250, 200, 250);
+  color: rgb(250, 200, 250);
+  background-color: gray;
+  float: right;
 }
 section
 {
