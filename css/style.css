@@ -15,6 +15,10 @@ h2
   background-color: 
   float: right;
 }
+img
+{
+  boarder-radius: 90%
+}
 
 section
 {
