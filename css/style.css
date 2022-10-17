@@ -7,8 +7,15 @@ h1
 {
   color: rgb(250, 200, 250);
   background-color: gray;
+
+}
+h2
+{
+ color: black;
+  background-color: 
   float: right;
 }
+
 section
 {
   float: right;
