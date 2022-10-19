@@ -12,6 +12,11 @@ h1
 ul
 boarder-radius: 90%;
 {
+  
+  body
+  {
+    boarder-radius: 90%;
+  }
  color: black;
   background-color: purple;
   float: right;
