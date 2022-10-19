@@ -17,10 +17,7 @@ div.specialinterests
   <p style="text-shadow: 5px 5px">Special Interests</p><p 
 }
 
-ul
-{
-boarder-radius: 90%;
-}
+
   
   body
   {
@@ -34,18 +31,11 @@ img
 {
   boarder-radius: 90%;
 }
-span
-{
-  boarder-radius: 90%;
-}
+
 section
 {
   float: left;
   color: light pink;
   background-color: light pink;
   
-}
-span name
-{
-  boarder-radius: 90%;
 }
