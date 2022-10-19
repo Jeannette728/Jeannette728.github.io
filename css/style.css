@@ -12,18 +12,20 @@ h2
 {
   <p style="text-shadow: 5px 5px">Special Interests</p><p 
 }
+
 ul
-boarder-radius: 90%;
 {
+boarder-radius: 90%;
+}
   
   body
   {
     boarder-radius: 90%;
-  }
  color: black;
   background-color: purple;
   float: right;
 }
+
 img
 {
   boarder-radius: 90%;
@@ -35,7 +37,7 @@ span
 section
 {
   float: left;
-  color: var(--favcolor);
-  background-color: blue;
+  color: light pink;
+  background-color: light pink;
   
 }
