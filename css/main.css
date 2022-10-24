@@ -2,9 +2,22 @@ body
 {
   boarder: 3pt solid black;
   background color: LightSkyBlue;
+  font-family: "Verdana"; 
 }
+
 h1
 {
   font-weight: bold;
   text-transform: uppercase;
+}
+
+h2
+{
+ --section-color: black; 
+  font-style: italic;
+}
+
+ul
+{
+  
 }
