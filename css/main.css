@@ -15,6 +15,7 @@ h2
 {
  --section-color: black; 
   font-style: italic;
+  vertical-align: super;
 }
 
 head
