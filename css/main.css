@@ -22,3 +22,8 @@ head
   font-style: italic;
   text-decoration: line-through;
 }
+
+ul
+{
+  text-decoration: line-through;
+}
