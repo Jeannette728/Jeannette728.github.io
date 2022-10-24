@@ -1,7 +1,7 @@
 body
 {
   boarder: 3pt solid black;
-  background color: LightSkyBlue;
+  background-color: LightSkyBlue;
   font-family: "Verdana"; 
 }
 
@@ -17,7 +17,8 @@ h2
   font-style: italic;
 }
 
-ul
+head
 {
-  
+  font-style: italic;
+  text-decoration: line-through;
 }
