@@ -34,3 +34,8 @@ table
   vertical-align: super;
   font-size: smaller;
 }
+
+title
+{
+  text-align: center;
+}
