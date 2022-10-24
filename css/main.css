@@ -28,3 +28,8 @@ ul
 {
   text-decoration: line-through;
 }
+
+table
+{
+  vertical-align: super;
+}
